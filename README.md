@@ -6,7 +6,7 @@ A full-stack real-time leaderboard system built with **Node.js**, **Express**, *
 
 ## 🔗 Live Demo
 
-🌐 [Live Link]([https://your-live-url.com](https://leader-board-app-two.vercel.app/))
+🌐 [Live Link](https://leader-board-app-two.vercel.app/)
 
 ---
 
